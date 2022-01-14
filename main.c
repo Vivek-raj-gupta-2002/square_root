@@ -60,5 +60,5 @@ double sq_root(int number)
 
 void main()
 {
-    printf("%lf", sq_root(15));
+    printf("%lf", sq_root(1225));
 }
