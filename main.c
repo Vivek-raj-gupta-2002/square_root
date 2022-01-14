@@ -1,5 +1,10 @@
-#include<stdio.h>
-#include<conio.h>
+#include<stdio.h>//standard input output
+#include<conio.h>//console input output
+
+/*
+This function just take an integer as input,
+and return a double value as result
+*/
 
 //finding the square root
 
